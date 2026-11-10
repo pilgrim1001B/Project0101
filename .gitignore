@@ -1,0 +1,7 @@
+bin/
+obj/
+gui/bin/
+gui/obj/
+.vs/
+*.user
+*.suo
